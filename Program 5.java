@@ -1,4 +1,4 @@
-// Write a Java Program to Check Whether a Number is Perfect Number or Not
+// Write a Java Program to Check Whether a Number is Armstrong Number or Not
 
 import java.util.Scanner;
 
