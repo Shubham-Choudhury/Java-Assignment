@@ -20,3 +20,8 @@
 18. 18
 19. [Write a Java program to replace all vowels from a string with next consonant.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2019.java)
 20. [Write a Java program to check if a given string is a permutation of another given string](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2020.java)
+21. 21
+22. 22
+23. 23
+24. 24
+25. 25
