@@ -3,7 +3,7 @@
 1. [Write a Java Program to Check Whether a Number is Prime or Not](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%201.java)
 2. [Write a Java Program to Find Factorial of a Number](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%202.java)
 3. [Write a Java program to check whether a string is a Palindrome or not.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%203.java)
-4. 4
+4. [Write a Java Program to Check Whether a Number is Perfect Number or Not](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%204.java)
 5. 5
 6. 6
 7. 7
