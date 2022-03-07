@@ -5,7 +5,7 @@
 3. [Write a Java program to check whether a string is a Palindrome or not.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%203.java)
 4. [Write a Java Program to Check Whether a Number is Perfect Number or Not](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%204.java)
 5. [Write a Java Program to Check Whether a Number is Perfect Number or Not](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%205.java)
-6. 6
+6. [Write a Java Program to Display Fibonacci Series.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%206.java)
 7. 7
 8. 8
 9. 9
@@ -25,3 +25,4 @@
 23. 23
 24. 24
 25. 25
+
