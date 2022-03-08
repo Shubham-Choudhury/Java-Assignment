@@ -7,7 +7,7 @@
 5. [Write a Java Program to Check Whether a Number is Armstrong Number or Not](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%205.java)
 6. [Write a Java Program to Display Fibonacci Series.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%206.java)
 7. [Write a Java Program to Find GCD of two numbers](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%207.java)
-8. 8
+8. [Write a Java program to convert temperature from Fahrenheit to Celsius degree.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%208.java)
 9. 9
 10. 10
 11. 11
