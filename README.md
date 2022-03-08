@@ -8,7 +8,7 @@
 6. [Write a Java Program to Display Fibonacci Series.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%206.java)
 7. [Write a Java Program to Find GCD of two numbers](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%207.java)
 8. [Write a Java program to convert temperature from Fahrenheit to Celsius degree.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%208.java)
-9. 9
+9. [Write a program that accepts three numbers from the user and prints "increasing" if the numbers are in increasing order, "decreasing" if the numbers are in decreasing order, and "Neither increasing or decreasing order" otherwise.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%209.java)
 10. 10
 11. 11
 12. 12
