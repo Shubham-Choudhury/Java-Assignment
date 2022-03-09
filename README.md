@@ -14,10 +14,10 @@
 12. [Write a Java program to find maximum product of two integers in a given array of integers](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2012.java)
 13. [Write a Java program to count the occurrences of each character](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2013.java)
 14. [Write a Java program to count the occurrences of a given string in another given string.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2014.java)
-15. 15
-16. 16
-17. 17
-18. 18
+15. [15](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2015.java)
+16. [16](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2016.java)
+17. [17](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2017.java)
+18. [18](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2018.java)
 19. [Write a Java program to replace all vowels from a string with next consonant.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2019.java)
 20. [Write a Java program to check if a given string is a permutation of another given string](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2020.java)
 21. 21
