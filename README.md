@@ -24,5 +24,5 @@
 22. 22
 23. 23
 24. 24
-25. 25
+25. [Write a Java Program to Create Rock-Paper-Scissors Game.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2025.java)
 
