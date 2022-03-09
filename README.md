@@ -10,10 +10,10 @@
 8. [Write a Java program to convert temperature from Fahrenheit to Celsius degree.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%208.java)
 9. [Write a program that accepts three numbers from the user and prints "increasing" if the numbers are in increasing order, "decreasing" if the numbers are in decreasing order, and "Neither increasing or decreasing order" otherwise.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%209.java)
 10. [Write a Java program that reads an positive integer and count the number of digits the number has.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2010.java)
-11. 11
-12. 12
-13. 13
-14. 14
+11. [Write a Java program to form the largest number from a given list of non negative integers.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2011.java)
+12. [Write a Java program to find maximum product of two integers in a given array of integers](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2012.java)
+13. [Write a Java program to count the occurrences of each character](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2013.java)
+14. [Write a Java program to count the occurrences of a given string in another given string.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2014.java)
 15. 15
 16. 16
 17. 17
