@@ -52,7 +52,7 @@ public class problem18 {
                  } else {
                      result++;
                  }
-             } else { // if (ch == 'V')
+             } else {
                  result += 5;
              }
          }
@@ -61,4 +61,12 @@ public class problem18 {
 
         sc.close();
      }
- }
+}
+
+ /*
+        OUTPUT
+    Enter a Roman Number: 
+    iv
+    Roman Number: IV 
+    Equivalent Integer: 4
+ */
