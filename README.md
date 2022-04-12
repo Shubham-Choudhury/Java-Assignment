@@ -17,7 +17,7 @@
 15. [Write a Java Program To Calculate Power Of Number.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2015.java)
 16. [Write a Java program to convert Roman number to an integer number.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2016.java)
 17. [Write a Java Program to find Smallest Number in an integer Array](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2017.java)
-18. [18](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2018.java)
+18. [Write a Java Program to Check Whether a Number is Spy Number or Not](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2018.java)
 19. [Write a Java program to replace all vowels from a string with next consonant.](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2019.java)
 20. [Write a Java program to check if a given string is a permutation of another given string](https://github.com/Shubham-Choudhury/Java-Assignment/blob/main/Program%2020.java)
 21. 21
