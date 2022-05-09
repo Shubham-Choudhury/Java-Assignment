@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class problem15 {
     static final int MAX_CHAR = 256;
 
     public static void main(String[] args)
@@ -26,8 +26,13 @@ class Main {
             ch[i] = str.charAt(i);
             int find = 0;
             for (int j = 0; j <= i; j++) {
-                if (str.charAt(i) == ch[j])
+                if(str.charAt(i) == ' '){
+                    continue;
+                }
+                else if (str.charAt(i) == ch[j]){
                     find++;
+                }
+
             }
  
             if (find == 1)
@@ -45,7 +50,6 @@ class Main {
     Number of Occurrence of v is:2
     Number of Occurrence of e is:4
     Number of Occurrence of n is:1
-    Number of Occurrence of   is:3
     Number of Occurrence of D is:1
     Number of Occurrence of B is:1
     Number of Occurrence of h is:1
